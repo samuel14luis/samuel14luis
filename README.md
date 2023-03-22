@@ -22,7 +22,7 @@ Welcome to my profile! This is a really ✨ _special_ ✨ place, doesn't it? �
 My name is Samuel, I'm from Perú and I'm mainly a Java, Typescript backend developer. You can see most of my work on GitHub. 
 
 I've worked as a data analyst at [AGROKASA](https://agrokasa.com/) for about two years. 
-Currently working for [NTT DATA](https://www.nttdata.com/global/en/) as a Junior Engineer.
+Currently working for [NTT DATA](https://www.nttdata.com/global/en/) as a Junior Software Engineer.
 
 ## Skills
 
